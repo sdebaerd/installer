@@ -43,5 +43,6 @@ cd /home/robot
 wget -N https://raw.githubusercontent.com/ev3dev-lang-java/installer/master/installer.sh
 chmod +x installer.sh
 sudo ./installer.sh help
-sudo ./installer.sh
+sudo ./installer.sh java
+sudo ./installer.sh javaLibs
 ```
